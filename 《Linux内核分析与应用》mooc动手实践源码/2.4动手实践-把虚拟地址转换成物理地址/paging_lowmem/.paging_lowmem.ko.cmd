@@ -1,1 +1,0 @@
-cmd_/home/hawl/sw_rep/kernel/paging_lowmem/paging_lowmem.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/hawl/sw_rep/kernel/paging_lowmem/paging_lowmem.ko /home/hawl/sw_rep/kernel/paging_lowmem/paging_lowmem.o /home/hawl/sw_rep/kernel/paging_lowmem/paging_lowmem.mod.o ;  true
