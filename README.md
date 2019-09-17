@@ -7,14 +7,13 @@
 - **科学规划** 关注重点难点，梳理整体思路，明确学习路径 
 ## 学习资源 ##
 　　
-- [Linux内核之旅网站](http://www.kerneltravel.net)
+- [Linux内核之旅网站](http://kerneltravel.net)
 
   ![](http://ww1.sinaimg.cn/large/005NFTS2ly1g72l6gix3hj30yn0j7tn2.jpg)
 
-- [Linux内核之旅微信公众号](https://mp.weixin.qq.com/mp/qrcode?scene=10000005&size=102&__biz=MzI3NzA5MzUxNA==&mid=2664606528&idx=1&sn=61cc6ec4ff943db1b8d7384cc5d95247&send_time=)
+- [Linux内核之旅微信公众号]
                                                          
-                                                         
-  ![](https://mp.weixin.qq.com/mp/qrcode?scene=10000005&size=102&__biz=MzI3NzA5MzUxNA==&mid=2664606528&idx=1&sn=61cc6ec4ff943db1b8d7384cc5d95247&send_time=)
+  ![](http://ww1.sinaimg.cn/large/005NFTS2ly1g72pcn2rnbj306d06aglx.jpg)
 
 **陈老师课程导学**
 
