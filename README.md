@@ -11,7 +11,7 @@
 
   ![](http://ww1.sinaimg.cn/large/005NFTS2ly1g72l6gix3hj30yn0j7tn2.jpg)
 
-- [Linux内核之旅微信公众号]
+- Linux内核之旅微信公众号
                                                          
   ![](http://ww1.sinaimg.cn/large/005NFTS2ly1g72pcn2rnbj306d06aglx.jpg)
 
